@@ -11,9 +11,10 @@ h1 {
 	text-align: center;
 }
 
-.download-link, a {
-	color:aquamarine;
-	font-size:16px;
+h2 {
+	color:white;
+	font-size:42px;
+	font-weight: 300;
 }
 
 p {
@@ -21,10 +22,9 @@ p {
 	color:grey;
 }
 
-h2 {
-	color:white;
-	font-size:42px;
-	font-weight: 300;
+.download-link, a {
+	color:aquamarine;
+	font-size:16px;
 }
 
 .copyright {
