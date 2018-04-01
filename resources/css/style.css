@@ -1,3 +1,26 @@
+* {
+	background-color: black;
+	text-align: center;
+	font-family: Verdana;
+}
+
 h1 {
-	color: red;
+	font-weight:normal;
+	color:white;
+	text-align: center;
+}
+
+.download-link, a {
+	color:aquamarine;
+	font-size:16px;
+}
+
+p {
+	font-size:21px;
+	color:grey;
+}
+
+h2 {
+	font-size:42px;
+	font-weight: 300;
 }
